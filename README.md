@@ -24,3 +24,12 @@ https://github.com/actions-runner-controller/actions-runner-controller
 
 https://github.com/evryfs/github-actions-runner-operator
 
+
+## TODO:
+
+- GCP cloud build like one-liner aync building.
+
+- Use microvm firecracker
+
+
+
