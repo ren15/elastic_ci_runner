@@ -1,5 +1,7 @@
 # elastic_ci_runner
 
+Self-hosted gitlab and github runner, elabrating k8s and AWS services, aming at high performance, high security and no idle costs.
+
 - Blogs
 
 https://nova.moe/run-self-hosted-github-action-runners-on-kubernetes/
