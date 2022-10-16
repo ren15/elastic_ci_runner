@@ -10,6 +10,10 @@ https://nova.moe/run-self-hosted-github-action-runners-on-kubernetes/
 
 https://jonico.github.io/awesome-runners/
 
+- terraform
+
+https://github.com/philips-labs/terraform-aws-github-runner
+
 - CDK 
 
 https://github.com/CloudSnorkel/cdk-github-runners
